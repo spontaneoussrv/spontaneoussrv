@@ -38,9 +38,8 @@ Data Analyst and automation developer based in Kolkata, India. I build Excel VBA
 | [UK-Planning-Portal-Scrapers](https://github.com/spontaneoussrv/UK-Planning-Portal-Scrapers) | Selenium scrapers that collect planning applications and documents from UK council portals |
 | [SeleniumBasic-Edge-Driver-Updater](https://github.com/spontaneoussrv/SeleniumBasic-Edge-Driver-Updater) | Keeps the Edge driver in sync for SeleniumBasic VBA automation |
 
-## GitHub stats
+## Languages I ship in
 
-![Stats](https://github-readme-stats.vercel.app/api?username=spontaneoussrv&show_icons=true&hide_border=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spontaneoussrv&layout=compact&hide_border=true)
 
 ## Certifications
