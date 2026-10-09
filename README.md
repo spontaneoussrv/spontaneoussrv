@@ -33,6 +33,7 @@ Data Analyst and automation developer based in Kolkata, India. I build Excel VBA
 |---|---|
 | [PDF-Master-Toolkit](https://github.com/spontaneoussrv/PDF-Master-Toolkit) | Windows PDF suite with 30+ tools: OCR, merge, split, compress, convert, redact, sign and batch workflows |
 | [Bengali-English-Vocab-Trainer](https://github.com/spontaneoussrv/Bengali-English-Vocab-Trainer) | Tray app that teaches English vocabulary from Bengali with 3,800+ entries and spaced repetition |
+| [AutoBrowse](https://github.com/spontaneoussrv/AutoBrowse) | Tray app that keeps chosen websites fresh in Chrome, with scheduled refresh, natural browsing and change alerts |
 | [Excel-VBA-Reference](https://github.com/spontaneoussrv/Excel-VBA-Reference) | Reusable VBA modules for automation, Outlook email, Word and Selenium |
 | [Useful-VBA-for-Developers](https://github.com/spontaneoussrv/Useful-VBA-for-Developers) | Handy VBA routines for everyday Excel tasks |
 | [UK-Planning-Portal-Scrapers](https://github.com/spontaneoussrv/UK-Planning-Portal-Scrapers) | Selenium scrapers that collect planning applications and documents from UK council portals |
