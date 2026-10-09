@@ -36,6 +36,6 @@ Data Analyst and automation developer based in Kolkata, India. I build Excel VBA
 ## Work with me
 
 - Fiverr: [fiverr.com/spontaneoussrv](https://www.fiverr.com/spontaneoussrv)
-- Upwork: [upwork.com/freelancers/~01f2ba852ccce28ec7](https://www.upwork.com/freelancers/~01f2ba852ccce28ec7)
+- Upwork: [upwork.com/freelancers/spontaneoussrv](https://www.upwork.com/freelancers/spontaneoussrv)
 - Templates: [sheetclubofficial.com](https://sheetclubofficial.com)
 - Email: souravsaha226fiverr@gmail.com
